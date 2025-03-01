@@ -1,4 +1,4 @@
-## Hi there soy Nathaly ¡Encanta de conocerte! 👋
+## Hola soy Nathaly ¡Encanta de conocerte! 👋
 
 <h1 style="color: #40E0D0;">Sobre mí</h1>
 
