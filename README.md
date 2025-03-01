@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there soy Nathaly ¡Encanta de conocerte! 👋
+
+<h1 style="color: #40E0D0;">Sobre mí</h1>
+
+
+
+
 
 <!--
 **Nathyku/Nathyku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
