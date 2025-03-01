@@ -18,23 +18,22 @@ Siempre busco nuevas oportunidades para aplicar mis habilidades y seguir aprendi
 ## Urban Scooter - Pruebas API
 ene. 2025 - ene. 2025  
 Ejecución de pruebas en la API de Urban Scooter, validando nuevas funcionalidades y asegurando la correcta comunicación entre el front-end y el back-end. Utilicé Postman para diseñar y ejecutar pruebas, verificando respuestas en formato JSON y XML. Además, trabajé con documentación API en Swagger y ApiDoc para garantizar la precisión de las solicitudes y respuestas. También realicé consultas en PostgreSQL para validar la integridad de los datos y reporté defectos en Jira.  
-[Ver repositorio en GitHub](https://github.com/tu_usuario/urban_scooter_api)
+
 
 ## Urban Lunch - Aplicación móvil
 dic. 2024 - dic. 2024  
 Pruebas de calidad en la aplicación móvil Urban Scooter, enfocadas en validar funcionalidades clave a través de Android Studio y Jira. Diseñé y ejecuté pruebas para la pantalla 'Hacer pedido', asegurando su correcto funcionamiento en emuladores y dispositivos reales. Además, creé listas de comprobación para verificar requisitos y documenté defectos en Jira.  
-[Ver repositorio en GitHub](https://github.com/tu_usuario/urban_lunch_mobile)
+
 
 ## Urban Routes - Web Testing Automated
 oct. 2024 - oct. 2024  
 Desarrollo e implementación de pruebas automatizadas para la plataforma web Urban Routes, utilizando Python, Pytest y Selenium WebDriver. Implementé la arquitectura Page Object Model (POM) para asegurar un código modular y mantenible.  
-[Ver repositorio en GitHub](https://github.com/tu_usuario/urban_routes_automated)
+[Ver repositorio en GitHub](https://github.com/Nathyku/qa-project-Urban-Routes-es)
 
 ## Urban Grocers - Aplicación web Testing
 sept. 2024 - sept. 2024  
 Desarrollo y ejecución de pruebas automatizadas en la API de un servicio de comestibles a domicilio, utilizando Postman para validar funcionalidades clave.  
-[Ver repositorio en GitHub](https://github.com/tu_usuario/urban_grocers_api)
-
+[Ver repositorio en GitHub](https://github.com/Nathyku/qa-project-Urban-Grocers-app-es)
 
 
 https://github.com/Nathyku/qa-project-Urban-Routes-es
