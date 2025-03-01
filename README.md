@@ -36,7 +36,7 @@ Desarrollo y ejecución de pruebas automatizadas en la API de un servicio de com
 [Ver repositorio en GitHub](https://github.com/Nathyku/qa-project-Urban-Grocers-app-es)
 
 
-https://github.com/Nathyku/qa-project-Urban-Routes-es
+
 <!--
 **Nathyku/Nathyku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
