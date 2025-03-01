@@ -1,3 +1,4 @@
+![QA Engineer Banner](https://github.com/Nathyku/Nathyku/blob/main/Banner.2.webp?raw=true)
 ## Hola soy Nathaly ¡Encanta de conocerte! 👋
 
 
