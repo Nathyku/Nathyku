@@ -1,5 +1,5 @@
 ## Hola soy Nathaly ¡Encanta de conocerte! 👋
-![QA Engineer Banner](https://github.com/Nathyku/Nathyku/blob/main/banner.png?raw=true)
+
 
 
 #🚀 Sobre mí
