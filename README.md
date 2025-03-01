@@ -1,6 +1,7 @@
 ## Hola soy Nathaly ¡Encanta de conocerte! 👋
 ![QA Engineer Banner](https://github.com/Nathyku/Nathyku/blob/main/banner.png?raw=true)
 
+
 #🚀 Sobre mí
 Mi viaje en el mundo del aseguramiento de calidad comenzó en el ámbito de pruebas de software, donde descubrí mi pasión por garantizar que las aplicaciones funcionen sin errores y cumplan con los más altos estándares. Trabajó en diversas áreas, incluidas las pruebas de APIs, aplicaciones móviles y web, lo que me ha permitido desarrollar habilidades en diversas herramientas y enfoques de testing.
 
